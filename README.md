@@ -1,0 +1,3 @@
+## Understanding Global Dietary Transitions Through Food Supply Analysis
+### Overview
+This project examines global food supply patterns from 2010 to 2023 using the FAOSTAT Food Balance Sheets dataset. The analysis explores trends in sugar supply, plant-based and animal-based protein sources, and calorie availability to understand changes in dietary patterns across countries. The findings provide insights into global dietary transitions, cross-country differences in food supply, and their potential implications for nutrition and the food industry.
